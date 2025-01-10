@@ -9,7 +9,7 @@
 | 服务端 CPU | x86 | Intel | 常见 CPU 型号如 Xeon、Core 全系列 | [安装](https://www.paddlepaddle.org.cn/install/quick?docurl=/documentation/docs/zh/install/pip/linux-pip.html) | [源码编译](https://www.paddlepaddle.org.cn/install/quick?docurl=/documentation/docs/zh/install/compile/linux-compile.html) |[代码仓库](https://github.com/PaddlePaddle/Paddle) |
 | 服务端 GPU |  | NVIDIA | Ada Lovelace、Hopper、 Ampere、Turing、 Volta 架构 | [安装](https://www.paddlepaddle.org.cn/install/quick?docurl=/documentation/docs/zh/install/pip/linux-pip.html) | [源码编译](https://www.paddlepaddle.org.cn/install/quick?docurl=/documentation/docs/zh/install/compile/linux-compile.html) |[代码仓库](https://github.com/PaddlePaddle/Paddle) |
 | AI 加速芯片 | 达芬奇 | 华为 | 昇腾 910 系列 | [安装](./npu/install_cn.html#wheel) | [源码编译](./npu/install_cn.html) |[代码仓库](https://github.com/PaddlePaddle/PaddleCustomDevice) |
-| AI 加速芯片 | GPGPU | 海光 | 海光 Z100 系列 | [安装](./dcu/install_cn.html#wheel) | [源码编译](./dcu/install_cn.html) |[代码仓库](https://github.com/PaddlePaddle/Paddle) |
+| AI 加速芯片 | GPGPU | 海光 | 海光 Z100, K100 系列 | [安装](./dcu/install_cn.html#wheel) | [源码编译](./dcu/install_cn.html) |[代码仓库](https://github.com/PaddlePaddle/Paddle) |
 | AI 加速芯片 | XPU | 昆仑芯 | 昆仑芯 R200、R300 等 | [安装](./xpu/install_cn.html#wheel) | [源码编译](./xpu/install_cn.html#xpu) |[代码仓库](https://github.com/PaddlePaddle/Paddle)  |
 | AI 加速芯片 | IPU | Graphcore | GC200 | | |[代码仓库](https://github.com/PaddlePaddle/Paddle) |
 | AI 加速芯片 | MLU | 寒武纪 | MLU370 系列 | [安装](./mlu/install_cn.html#wheel) | [源码编译](./mlu/install_cn.html) | [代码仓库](https://github.com/PaddlePaddle/PaddleCustomDevice) |
